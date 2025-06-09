@@ -45,14 +45,6 @@ Interactive 3D shirt design app that lets users customize colors, logos, and tex
 A movie search and discovery app using The Movie Database API, with trending and detailed views.  
 **Tech Used:** React, Styled Components, TMDB API
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyakad&show_icons=true&theme=tokyonight" alt="Shreya's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakad&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
 
 ---
 
