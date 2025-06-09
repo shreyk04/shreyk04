@@ -59,7 +59,7 @@ A movie search and discovery app using The Movie Database API, with trending and
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shreya-kad/)
-📧 Email: `shreyakad2001@gmail.com` *(update to your real email)*
+📧 Email: `shreyakad2001@gmail.com` 
 
 ---
 
