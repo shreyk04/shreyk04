@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with **2+ yea
 
 ## 💼 About Me
 
--🔭 Currently working at Capgemini as a Software Engineer
--💻 Front-End Developer specializing in React.js, JavaScript, and modern UI frameworks
--🎨 Passionate about building seamless, responsive, and accessible user experiences
--🌱 Exploring Three.js, React Three Fiber, and learning Node.js to grow as a full-stack developer
--🛠️ Focused on crafting tools that blend thoughtful design with clean code
--📍 Based in Gurgaon | Originally from Pune
+- 🔭 Currently working at Capgemini as a Software Engineer  
+- 💻 Front-End Developer specializing in React.js, JavaScript, and modern UI frameworks  
+- 🎨 Passionate about building seamless, responsive, and accessible user experiences  
+- 🌱 Exploring Three.js, React Three Fiber, and learning Node.js to grow as a full-stack developer  
+- 🛠️ Focused on crafting tools that blend thoughtful design with clean code  
+- 📍 Based in Gurgaon | Originally from Pune  
 
 
 
